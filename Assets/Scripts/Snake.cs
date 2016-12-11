@@ -21,6 +21,7 @@ public class Snake : MonoBehaviour
 			dir = Vector2.down;
 		} else if (Input.GetKey ("d")) {
 			dir = Vector2.right;
+
 		}
 			
 	}
